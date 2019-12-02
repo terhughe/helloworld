@@ -1,2 +1,2 @@
 # helloworld
-short description
+hello, just running throught the guide
